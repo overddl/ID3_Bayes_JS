@@ -1,4 +1,3 @@
-const $data = require('./data');
 const HashMap = require('./HashMap');
 
 function Bayes($data){
